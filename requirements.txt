@@ -4,3 +4,5 @@ pinax-webanalytics==2.0.1
 pinax-eventlog==1.1.1
 python-social-auth==0.2.13
 pinax-theme-bootstrap==7.8.0
+gunicorn==19.4.5
+wheel==0.24.0
